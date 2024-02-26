@@ -60,7 +60,8 @@ public class Pattern
 ```
 
 ## Output :
-![''](O1.png)
+![Screenshot 2024-02-26 145935](https://github.com/jayasridodda/Exp02-CSharpPattern/assets/123259278/0f838c1c-e33f-41a8-96dc-e78d72e855b8)
+
 
 ## Result :
 
