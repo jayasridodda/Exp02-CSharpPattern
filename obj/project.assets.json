@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Archana\\.nuget\\packages\\": {}
+    "C:\\Users\\SEC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Archana\\csharpExperiments\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
+      "projectUniqueName": "C:\\c sharp\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
       "projectName": "Exp02-CSharpPattern",
-      "projectPath": "C:\\Users\\Archana\\csharpExperiments\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
-      "packagesPath": "C:\\Users\\Archana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Archana\\csharpExperiments\\Exp02-CSharpPattern\\obj\\",
+      "projectPath": "C:\\c sharp\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
+      "packagesPath": "C:\\Users\\SEC\\.nuget\\packages\\",
+      "outputPath": "C:\\c sharp\\Exp02-CSharpPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Archana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
